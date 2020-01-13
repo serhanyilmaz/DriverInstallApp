@@ -1,0 +1,9 @@
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Release\DriverFileInstallApp.Form1.resources
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Release\DriverFileInstallApp.csproj.GenerateResource.cache
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Release\DriverFileInstallApp.csproj.CoreCompileInputs.cache
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\bin\Release\DriverApp.exe.config
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\bin\Release\DriverApp.exe
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\bin\Release\DriverApp.pdb
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Release\DriverApp.Properties.Resources.resources
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Release\DriverApp.exe
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Release\DriverApp.pdb

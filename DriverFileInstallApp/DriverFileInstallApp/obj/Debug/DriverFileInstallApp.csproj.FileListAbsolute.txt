@@ -1,0 +1,10 @@
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\bin\Debug\DriverFileInstallApp.exe.config
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\bin\Debug\DriverFileInstallApp.exe
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\bin\Debug\DriverFileInstallApp.pdb
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.csprojAssemblyReference.cache
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.Form1.resources
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.Properties.Resources.resources
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.csproj.GenerateResource.cache
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.csproj.CoreCompileInputs.cache
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.exe
+C:\Users\Serhan Yılmaz\source\repos\DriverFileInstallApp\DriverFileInstallApp\obj\Debug\DriverFileInstallApp.pdb
